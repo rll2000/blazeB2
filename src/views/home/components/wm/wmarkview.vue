@@ -3,8 +3,8 @@
  * @Date: 2022-07-14 13:02:06
  * @LastEditors: harry
  * @Github: https://github.com/rr210
- * @LastEditTime: 2022-07-23 17:03:48
- * @FilePath: \dev\src\views\home\components\wm\wmarkview.vue
+ * @LastEditTime: 2022-07-24 12:25:01
+ * @FilePath: \vite\src\views\home\components\wm\wmarkview.vue
 -->
 <template>
   <div>
@@ -246,6 +246,6 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style lang="less" scoped>
 @import './wmarkview.module.less';
 </style>
